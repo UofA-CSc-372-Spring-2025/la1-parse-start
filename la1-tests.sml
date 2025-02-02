@@ -1,5 +1,8 @@
 (* sample unit tests for LA1 *)
-use "Unit.sml";
+(* Usage:
+    cat la1-parse.sml la1-tests.sml > cat.sml
+    poly --script cat.sml
+*)
 
 (**** Tests for lexer function ****)
 
