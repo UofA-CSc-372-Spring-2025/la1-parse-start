@@ -1,6 +1,6 @@
 (* la1-parse.sml *)
 (* Name:                                    *)
-(* Time spent on HW6:
+(* Time spent on LA1:
 *)
 
 (* Collaborators and references:
